@@ -1,4 +1,4 @@
-## Telas Sobre Kotlin
+## Implementaçâo de telas Sobre utilizando Kotlin.
 
 ## Autores
 
