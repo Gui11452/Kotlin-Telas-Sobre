@@ -43,7 +43,7 @@ class AboutActivity_Guilherme_Holanda : AppCompatActivity() {
         }
 
         val companyButton = Button(this).apply {
-            text = "Empresa que eu estagio"
+            text = "Empresa que eu trabalho"
             setOnClickListener {
                 openLink("https://www.amigotech.com.br/")
             }

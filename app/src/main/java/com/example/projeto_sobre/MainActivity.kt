@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         val button4 = Button(this).apply {
-            text = "Sobre Luca Barros"
+            text = "Sobre Lucca Barros"
             setOnClickListener {
                 startActivity(Intent(this@MainActivity, AboutActivity_Lucas_Barros::class.java))
             }
